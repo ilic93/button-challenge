@@ -70,5 +70,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@ilic93](https://{github.com/your-usermame})
+- GitHub [@ilic93](https://github.com/ilic93)
 
